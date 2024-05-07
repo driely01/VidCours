@@ -1,8 +1,6 @@
 # VidCours
 VidCour is a desktop application that make you able watch the educational videos on it
 
-![image-007](https://github.com/driely01/VidCours/assets/41493879/5cd747f4-eab9-4b13-a8ac-2e9698d782fa)
-![image-008](https://github.com/driely01/VidCours/assets/41493879/63823adf-d52a-460a-adda-707fcda98cd1)
 ![image-017](https://github.com/driely01/VidCours/assets/41493879/758293f1-6113-49f3-a47e-cf484e075700)
 ![image-018](https://github.com/driely01/VidCours/assets/41493879/774818b3-fc45-4b11-9294-5687c59b021d)
 ![image-019](https://github.com/driely01/VidCours/assets/41493879/bfee9d20-4600-4ae2-b3a7-c68f31549175)
