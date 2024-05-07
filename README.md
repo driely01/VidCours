@@ -41,7 +41,8 @@ VidCour is a `c#`, `ADO.NET` `desktop application` that make you able watch the 
 <hr>
 
 ## visitors pages
-<p align="center">
+<p>
+  
   ### dashboard page
   <img src="https://github.com/driely01/VidCours/assets/41493879/1ab0ec4c-a72c-46c8-bee2-8cecfe5e0f3e" width="400" />
 
