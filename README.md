@@ -1,7 +1,7 @@
 # VidCour
 
 **Vidcour** is a `c#`, `ADO.NET` `desktop application` that make you able to watch educational on it.
-This was my end-of-study project project in the last year in at the Specialized Institute of Applied Management Technology. And was my first experience in the real world `c#` `ADO.NET` desktop application.
+<!-- This was my end-of-study project project in the last year in at the Specialized Institute of Applied Management Technology. And was my first experience in the real world `c#` `ADO.NET` desktop application. -->
 
 the **VidCour** application have sign-up and login pages, admin pages and visitor or student pages like the following:
 
